@@ -1,0 +1,5 @@
+> npm install -g create-react-app
+> create-react-app <nombre-proyecto>
+
+- Eliminar contenido de la carpeta src
+- Crear archivo index.js
