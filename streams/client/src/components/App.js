@@ -19,7 +19,7 @@ class App extends Component {
                         <Route
                             path="/streams/new"
                             exact
-                            component={StreamCreate}
+                            component={() => <StreamCreate />}
                         />
                         <Route
                             path="/streams/edit"
